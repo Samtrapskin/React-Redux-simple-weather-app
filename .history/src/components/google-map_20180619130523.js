@@ -1,0 +1,1 @@
+omport React, {Component} from 'react';
